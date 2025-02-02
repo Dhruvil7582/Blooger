@@ -2,29 +2,29 @@
 /*  font-family: Abel  */
 @font-face {
     font-family: Abel;
-    src: url('../Blooger/Abel-Regular.ttf');
+    src: url('../Abel-Regular.ttf');
 }
 
 /*  font-family: Anton  */
 @font-face {
     font-family: Anton;
-    src: url('../Blooger/Anton-Regular.ttf');
+    src: url('../Anton-Regular.ttf');
 }
 
 /*  font-family: Josefin  */
 @font-face {
     font-family: Josefin;
-    src: url('../Blooger/JosefinSans-Regular.ttf');
+    src: url('../JosefinSans-Regular.ttf');
 }
 
 /*  font-family: Lexend  */
 @font-face {
     font-family: Lexend;
-    src: url('../Blooger/LexendDeca-Regular.ttf');
+    src: url('../LexendDeca-Regular.ttf');
 }
 
 /*  font-family: Livvic  */
 @font-face {
     font-family: Livvic;
-    src: url('../Blooger/Livvic-Regular.ttf');
+    src: url('../Livvic-Regular.ttf');
 }
